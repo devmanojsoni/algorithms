@@ -1,0 +1,14 @@
+log.txt
+/dir2
+*.exe
+/.vscode
+.vscode
+lauch.json
+tasks.json
+/.vscode/lauch.json
+/.vscode/tasks.json
+*.pdf
+*.mine
+dust_bin/
+dust-bin/
+boilerplates/
